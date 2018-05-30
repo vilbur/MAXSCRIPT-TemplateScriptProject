@@ -5,7 +5,6 @@ try(DestroyDialog TemplateScriptProjectTest_roll)catch() -- must be above rollou
  */
 rollout TemplateScriptProjectTest_roll "Edit poly test"
 (
-		
 	button Test_btn "Test" 
 		on Test_btn pressed do ( (TemplateScriptProject_v()).test() )
 )
