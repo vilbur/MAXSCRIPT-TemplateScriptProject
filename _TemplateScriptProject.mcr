@@ -1,6 +1,0 @@
---macroscript _TemplateScriptProject
---category:"_TemplateScriptProject" 
---buttonText:"TemplateScriptProject_v"
---(
---	TemplateScriptProject_v()
---)

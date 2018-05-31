@@ -3,4 +3,4 @@
 * Test script macro    
 
 ## Quick start    
-Drag ___TemplateScriptProjectTest.mcr__ to 3Ds Max  
+Drag ___TemplateScriptTest.mcr__ to 3Ds Max  
